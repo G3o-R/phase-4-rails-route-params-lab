@@ -77,3 +77,5 @@ As a bonus deliverable:
 - [Routing API Documentation](http://api.rubyonrails.org/classes/ActionDispatch/Routing.html)
 
 [query params]: https://en.wikipedia.org/wiki/Query_string
+
+https://github.com/G3o-R/phase-4-rails-route-params-lab
